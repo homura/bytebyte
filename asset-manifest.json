@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/bytebyte/static/css/main.6dea0f05.chunk.css",
+    "main.js": "/bytebyte/static/js/main.ade819b5.chunk.js",
+    "main.js.map": "/bytebyte/static/js/main.ade819b5.chunk.js.map",
+    "runtime-main.js": "/bytebyte/static/js/runtime-main.0b4de530.js",
+    "runtime-main.js.map": "/bytebyte/static/js/runtime-main.0b4de530.js.map",
+    "static/css/2.a6e5d9e4.chunk.css": "/bytebyte/static/css/2.a6e5d9e4.chunk.css",
+    "static/js/2.4b1432c4.chunk.js": "/bytebyte/static/js/2.4b1432c4.chunk.js",
+    "static/js/2.4b1432c4.chunk.js.map": "/bytebyte/static/js/2.4b1432c4.chunk.js.map",
+    "static/js/3.8e868313.chunk.js": "/bytebyte/static/js/3.8e868313.chunk.js",
+    "static/js/3.8e868313.chunk.js.map": "/bytebyte/static/js/3.8e868313.chunk.js.map",
+    "index.html": "/bytebyte/index.html",
+    "static/css/2.a6e5d9e4.chunk.css.map": "/bytebyte/static/css/2.a6e5d9e4.chunk.css.map",
+    "static/css/main.6dea0f05.chunk.css.map": "/bytebyte/static/css/main.6dea0f05.chunk.css.map",
+    "static/js/2.4b1432c4.chunk.js.LICENSE.txt": "/bytebyte/static/js/2.4b1432c4.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0b4de530.js",
+    "static/css/2.a6e5d9e4.chunk.css",
+    "static/js/2.4b1432c4.chunk.js",
+    "static/css/main.6dea0f05.chunk.css",
+    "static/js/main.ade819b5.chunk.js"
+  ]
+}
